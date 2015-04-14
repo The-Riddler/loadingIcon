@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="50" cy="50" r="20" style="fill: ghostwhite"/>
+	<text id="text" x="50" y="50" style="text-anchor: middle; dominant-baseline: middle; fill: #920095; font-family: sans-serif">0%</text>
+	<circle id="outerArc" cx="50" cy="50" r="45" style="fill: none; stroke: ghostwhite;stroke-width: 5"/>
+</svg>
